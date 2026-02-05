@@ -6,8 +6,8 @@ The study focuses on data preprocessing, feature engineering, model training, an
 ---
 
 ## Project Members
-- @omerfarukbaysal04
-- @DrXendria
+- [@omerros04](https://github.com/omerros04)
+- [@DrXendria](https://github.com/DrXendria)
 
 ---
 
